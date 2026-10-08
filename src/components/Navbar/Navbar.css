@@ -34,7 +34,7 @@
 .navbar button:hover{
     background-color: tomato;
     color: white;
-    font-family: Oufit;
+    font-family: Outfit;
 }
 
 .navbar .active{
