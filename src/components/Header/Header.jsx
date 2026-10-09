@@ -9,7 +9,7 @@ const Header = () => {
           From comfort food to your next obsession, 
           discover delicious dishes from local favorites and have them delivered fresh to your doorstep.
         </p>
-        <button>View Menu</button>
+        <button href='#explore-menu'>View Menu</button>
        </div>
        
        
